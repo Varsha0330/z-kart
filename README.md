@@ -62,7 +62,7 @@ Step 7: Tomcat Configurations:
 
 Step 8: Check Running The Site At  [http://localhost:8080/z-cart/]
 
-Step 9:  [To Change the Port, if getting error like 'port already in use'] Open The Server Tab > Double Click On Tomcat Server > Ports > Change The Port Number For Http/1.1 To 8083 > Close And Save. Now Start and you can access the project on [http://localhost:8083/z-cart/](http://localhost:8083/shopping-cart/)
+Step 9:  [To Change the Port, if getting error like 'port already in use'] Open The Server Tab > Double Click On Tomcat Server > Ports > Change The Port Number For Http/1.1 To 8083 > Close And Save. Now Start and you can access the project on [http://localhost:8083/z-cart/].
 
 Step 10: Default Username And Password For Admin Is "admin@gmail.com" And "admin"
 
